@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Exploring gregarine diversity and evolution
+title: Host-symbiont diversity and evolution
 email: jorgemedinad@tamu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! I am an evolutionary biologist interested in protist symbiotic evolution.
 
   Hola! Soy biologo evolutivo interesado en la evolucion de protistas simbiontes.
 
-url: "https://symbiont.github.io"
+url: "https://jorgemedinad.github.io"
 baseurl: ""
 twitter_username: jorgevol1
 github_username: jorgemedinad
