@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Jorge H. Medina-Duran"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Evolutionary biologist working on host-symbiont interactions"
+  bio    : "Evolutionary biologist working on host-symbiont interactions with particular focus on eugregarine parasites of Orthoptera"
   links:
     - label: "ORCID"
       icon: "fa-brands fa-orcid"
