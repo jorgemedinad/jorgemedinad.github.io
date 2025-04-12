@@ -61,25 +61,33 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Jorge Medina-Duran"
+  name   : "Jorge H. Medina-Duran"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Evolutionary biologist working on host-symbiont interactions"
   links:
-    - label: "Website"
-      icon: "fa fa-link"
-      url: "https://jorgemedinad.github.io"
-    - label: "@jorgevol1"
-      icon: "fa-brands fa-x-twitter"
-      url: "https://x.com/jorgevol1"
+    - label: "ORCID"
+      icon: "fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0001-5393-8535"
+
+    - label: "Google Scholar"
+      icon: "fa-solid fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=rNp9QT8AAAAJ&hl=es"      
+
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jorgemedinad"
 
-footer:
-  links:
     - label: "@jorgevol1"
       icon: "fa-brands fa-x-twitter"
       url: "https://x.com/jorgevol1"
+
+    - label: "ResearchGate"
+      icon: "fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Jorge-Medina-Duran"
+
+
+footer:
+  links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jorgemedinad"
